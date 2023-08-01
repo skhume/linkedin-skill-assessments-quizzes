@@ -2332,6 +2332,9 @@ else:
 - [x] `0 1 2 3 4 Done!`
 - [ ] You will get a syntax error.
 
+![Q163 What will this code output to the screen](https://github.com/skhume/linkedin-skill-assessments-quizzes/assets/126114728/32d0d822-d603-4290-87ae-740a68c69283)
+
+
 #### Q164. Which comparison of lists and tuples in Python is correct?
 
 - [ ] Use lists instead of tuples when you have a collection of related but dissimilar objects.
