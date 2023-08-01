@@ -2332,8 +2332,7 @@ else:
 - [x] `0 1 2 3 4 Done!`
 - [ ] You will get a syntax error.
 
-![Q163 What will this code output to the screen](https://github.com/skhume/linkedin-skill-assessments-quizzes/assets/126114728/32d0d822-d603-4290-87ae-740a68c69283)
-
+[Q163 What will this code output to the screen](https://github.com/skhume/linkedin-skill-assessments-quizzes/assets/126114728/0644588c-9cda-417e-8a27-c47d6f5d4108)
 
 #### Q164. Which comparison of lists and tuples in Python is correct?
 
