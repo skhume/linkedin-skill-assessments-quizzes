@@ -301,6 +301,8 @@
 - [] CloudFormation templates are a superset of SAM templates. CloudFormation templates include additional resource types.
 - [ ] SAM templates are a different name for CloudFormation templates. Both template types include the same resource types.
 
+![AWS Lambda What is the relationship between SAM template and CloudFormation template files](https://github.com/skhume/linkedin-skill-assessments-quizzes/assets/126114728/b389739f-3b18-4439-b77c-424585c715d0)
+
 #### Q44. What service deploys Lambdas regionally?
 
 - [ ] EdgeCloud
